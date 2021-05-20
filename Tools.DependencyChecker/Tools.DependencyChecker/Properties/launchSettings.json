@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Tools.DependencyChecker": {
+      "commandName": "Project"
+    }
+  }
+}
